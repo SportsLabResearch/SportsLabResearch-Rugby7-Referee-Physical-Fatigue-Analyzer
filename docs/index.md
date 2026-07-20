@@ -1,4 +1,4 @@
-# Rugby7 Referee Physical Fatigue Analyzer
+﻿# Rugby7 Referee Physical Fatigue Analyzer
 
 Scientific software developed by **SportsLabResearch** for analysing external load, internal load and physical fatigue in Rugby Sevens referees.
 
@@ -32,3 +32,4 @@ The application imports match files, calculates locomotor and cardiovascular ind
 **v0.1.0-alpha**
 
 The software is under active development. Validate the generated results before using them in research, publication or operational decision-making.
+
