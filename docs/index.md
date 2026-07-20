@@ -1,6 +1,14 @@
 # Rugby7 Referee Physical Fatigue Analyzer
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21451656.svg)](https://doi.org/10.5281/zenodo.21451656)
+<!-- DOI-INICIO -->
+<p style="margin: 1rem 0 2rem 0;">
+  <a href="https://doi.org/10.5281/zenodo.21451656" target="_blank" rel="noopener" style="display:inline-block;background:#1683b6;color:white;font-weight:600;text-decoration:none;padding:5px 10px;border-radius:4px;">
+    DOI: 10.5281/zenodo.21451656
+  </a>
+</p>
+<!-- DOI-FIN -->
+
+
 
 
 Scientific software developed by **SportsLabResearch** for analysing external load, internal load and physical fatigue in Rugby Sevens referees.
