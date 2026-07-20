@@ -36,5 +36,3 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight
-  - pymdownx.tabbed:
-      alternate_style: true
