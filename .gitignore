@@ -1,0 +1,31 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Datos del proyecto
+data/input/**
+data/output/**
+
+# Mantener la estructura de carpetas
+!data/input/.gitkeep
+!data/output/.gitkeep
+!data/output/identified/.gitkeep
+!data/output/anonymized/.gitkeep
