@@ -1,0 +1,27 @@
+{
+  "title": "Rugby7 Referee Physical Fatigue Analyzer",
+  "description": "Open-source scientific software for the analysis of external load, internal load and physical fatigue in Rugby Sevens referees.",
+  "creators": [
+    {
+      "name": "SportsLabResearch"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "Rugby Sevens",
+    "referees",
+    "physical fatigue",
+    "external load",
+    "internal load",
+    "sports analytics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/SportsLabResearch/SportsLabResearch-Rugby7-Referee-Physical-Fatigue-Analyzer",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

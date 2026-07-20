@@ -1,0 +1,11 @@
+1. Copia TODO el contenido de este paquete en la raíz del repositorio.
+2. Acepta reemplazar mkdocs.yml, docs y .github/workflows/docs.yml.
+3. Borra la carpeta site antes de probar o publicar.
+4. Ejecuta:
+   python -m pip install -r requirements-docs.txt
+   mkdocs serve
+5. Publica:
+   git add .
+   git commit -m "Match documentation style"
+   git push origin main
+6. En GitHub > Settings > Pages selecciona Deploy from a branch, rama gh-pages, carpeta /(root).

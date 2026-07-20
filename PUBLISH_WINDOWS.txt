@@ -1,0 +1,13 @@
+1. Copy mkdocs.yml, requirements-docs.txt and the docs folder into the repository root.
+2. Delete the old site folder.
+3. Open PowerShell in the repository root.
+4. Run:
+
+python -m pip install -r requirements-docs.txt
+mkdocs build --strict
+mkdocs serve
+
+5. Check http://127.0.0.1:8000
+6. Publish:
+
+mkdocs gh-deploy --force

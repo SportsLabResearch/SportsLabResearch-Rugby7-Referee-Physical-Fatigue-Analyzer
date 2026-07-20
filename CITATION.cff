@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Rugby7 Referee Physical Fatigue Analyzer
+message: If you use this software, please cite the archived Zenodo release.
+type: software
+authors:
+  - name: SportsLabResearch
+version: 0.1.0-alpha
+date-released: 2026-07-20
+license: MIT
+repository-code: https://github.com/SportsLabResearch/SportsLabResearch-Rugby7-Referee-Physical-Fatigue-Analyzer
+url: https://sportslabresearch.github.io/SportsLabResearch-Rugby7-Referee-Physical-Fatigue-Analyzer/
+keywords:
+  - Rugby Sevens
+  - referees
+  - physical fatigue
+  - external load
+  - internal load
+  - sports analytics
